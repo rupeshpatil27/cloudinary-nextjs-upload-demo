@@ -43,17 +43,3 @@ CLOUDINARY_CLOUD_NAME="your_cloud_name"
 CLOUDINARY_API_KEY="your_api_key"
 CLOUDINARY_API_SECRET="your_api_secret"
 ```
-
-## 📦 Installation & Setup
-
-1. Clone the repository and install dependencies:
-
-```code
-npm install
-```
-
-2. Start the Development Server:
-
-```code
-npm run dev
-```
